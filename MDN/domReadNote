@@ -1,0 +1,28 @@
+some terminology of document object model:
+1.Element node: An element,as it exists in the DOM.
+2.Root node
+3.Child node
+4.Descendant node
+5.Parent node
+6.Sibling node
+7.Text node
+
+familiarize sb with sth//某人熟悉某物
+come across sth//偶遇某物
+
+basic DOM manipulation,and the web apis below:
+1.document.querySelector()
+2.document.getElementById()
+3.document.getElementByTagName()
+           getElementByName()
+           getElementByClassName()
+4.document.createElement()
+5.document.appendChild()
+           removeChild()
+           replaceChild()
+           insertBefore()
+6.document.createTextNode()
+7.document.removeChild()
+8.para.setAttribute()
+       getAttribute()
+       removeAttribute()
